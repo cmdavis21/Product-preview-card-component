@@ -184,4 +184,6 @@ button:hover, button:active {
     button {
         padding: 0.9em;
     }
+    button img {
+        width: 15px;
 }

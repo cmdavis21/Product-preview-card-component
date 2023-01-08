@@ -45,7 +45,7 @@ body {
 }
 
 .product-img {
-    background-image: url(https://github.com/cmdavis21/cmdavis21.github.io/blob/94a80158b39720f6bb9c4939b79dbb1e48e5f408/image-product-desktop.jpg);
+    background-image: url(cmdavis21.github.io/image-product-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -143,7 +143,7 @@ button:hover, button:active {
         width: 30rem;
     }
     .product-img {
-        background-image: url(https://github.com/cmdavis21/cmdavis21.github.io/blob/db9e90db12a61ee03b67e4131524be6e15d0c4a1/image-product-mobile.jpg);
+        background-image: url(cmdavis21.github.io/image-product-mobile.jpg);
         border-radius: 8px 8px 0 0;
         width: 100%;
         height: 100%;

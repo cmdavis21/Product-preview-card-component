@@ -1,4 +1,5 @@
-# cmdavis21.github.io
+# Product-Preview-Card-Component
+**By: cmdavis21**
 
 Greetings!
 Thank you for viewing this project of a product preview card component. 
